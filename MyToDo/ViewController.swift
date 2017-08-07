@@ -2,8 +2,6 @@
 //  ViewController.swift
 //  MyToDo
 //
-//  Created by Bruno Philipe on 7/1/17.
-//  Copyright © 2017 Bruno Philipe. All rights reserved.
 //
 
 import UIKit
